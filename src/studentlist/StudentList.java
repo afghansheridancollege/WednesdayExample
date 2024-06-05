@@ -8,6 +8,8 @@ package studentlist;
  *
  * @author sivagamasrinivasan
  */
+
+private int id;
 public class StudentList {
 
     /**
